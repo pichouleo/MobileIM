@@ -51,4 +51,7 @@
         width: 100%;
         height: 50%;
     }
+    .first-bloc-first-number, .first-bloc-second-number, .first-bloc-third-number{
+        height: 22%;
+    }
 }
