@@ -1,0 +1,20 @@
+@media screen and (min-width:500px) and (max-width:1024px) {
+    header button{
+        font-size: 1.5rem;
+    }
+    
+    .first-bloc-first, .first-bloc-second, .first-bloc-third{
+        font-size: initial;
+        overflow: auto;
+    
+    }
+    .container-first{
+        width: 90%;
+
+        
+    }
+    .first-bloc-first, .first-bloc-second, .first-bloc-third{
+        font-size: 1.4rem;
+       
+    }
+}
